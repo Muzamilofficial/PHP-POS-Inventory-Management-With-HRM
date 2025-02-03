@@ -1,4 +1,4 @@
-# Zaibten POS Inventory Management With HRM 🚀💼
+# Zaibten POS Inventory Management With HRM | Accounts | Sales & Purchase | ERP 🚀💼
 ## Overview ✨
 PHP POS Inventory Management With HRM is an all-in-one solution designed to streamline your business operations. Whether you're managing sales, tracking inventory, or handling HR tasks, this project has you covered with a sleek, user-friendly interface and powerful features. Perfect for small to medium enterprises looking for efficiency and scalability. 💪🏽
 
