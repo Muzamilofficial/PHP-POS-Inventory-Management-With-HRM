@@ -53,7 +53,7 @@ PHP POS Inventory Management With HRM is an all-in-one solution designed to stre
 5. **Serve the Application** 🚀:
    ```bash
    php artisan serve
-```
+
 Open your browser and navigate to http://localhost:8000 to view your application.
 
 # 📸 Some Screenshots of the Project 🖼️✨
