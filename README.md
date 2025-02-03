@@ -29,24 +29,24 @@ PHP POS Inventory Management With HRM is an all-in-one solution designed to stre
 1. **Clone the Repository** 📋:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
-```
+
 2. **Install Dependencies** 📋:
    ```bash
    composer install
-```
+
 3. **Install Dependencies** 📋:
    ```bash
    composer install
    npm install
-```
+
 3. **Configuration** ⚙️:
    ```bash
    cp .env.example .env
-```
+
 4. **Database Setup** 🗄️:
    ```bash
    php artisan migrate --seed
-```
+
 5. **Serve the Application** 🚀:
    ```bash
    php artisan serve
