@@ -37,7 +37,10 @@ PHP POS Inventory Management With HRM is an all-in-one solution designed to stre
 3. **Install Dependencies** 📋:
    ```bash
    composer install
+   ```
+   ```bash
    npm install
+   ```
 
 3. **Configuration** ⚙️:
    ```bash
